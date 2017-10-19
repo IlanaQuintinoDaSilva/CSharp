@@ -1,0 +1,11 @@
+C:\Users\Ilana\Documents\GitHub\CSharp\S3Sample1\S3Sample1\bin\Debug\net45\S3Sample1.exe.config
+C:\Users\Ilana\Documents\GitHub\CSharp\S3Sample1\S3Sample1\bin\Debug\net45\S3Sample1.exe
+C:\Users\Ilana\Documents\GitHub\CSharp\S3Sample1\S3Sample1\bin\Debug\net45\S3Sample1.pdb
+C:\Users\Ilana\Documents\GitHub\CSharp\S3Sample1\S3Sample1\bin\Debug\net45\AWSSDK.Core.dll
+C:\Users\Ilana\Documents\GitHub\CSharp\S3Sample1\S3Sample1\bin\Debug\net45\AWSSDK.S3.dll
+C:\Users\Ilana\Documents\GitHub\CSharp\S3Sample1\S3Sample1\obj\Debug\net45\S3Sample1.csprojResolveAssemblyReference.cache
+C:\Users\Ilana\Documents\GitHub\CSharp\S3Sample1\S3Sample1\obj\Debug\net45\S3Sample1.csproj.CoreCompileInputs.cache
+C:\Users\Ilana\Documents\GitHub\CSharp\S3Sample1\S3Sample1\obj\Debug\net45\S3Sample1.AssemblyInfoInputs.cache
+C:\Users\Ilana\Documents\GitHub\CSharp\S3Sample1\S3Sample1\obj\Debug\net45\S3Sample1.AssemblyInfo.cs
+C:\Users\Ilana\Documents\GitHub\CSharp\S3Sample1\S3Sample1\obj\Debug\net45\S3Sample1.exe
+C:\Users\Ilana\Documents\GitHub\CSharp\S3Sample1\S3Sample1\obj\Debug\net45\S3Sample1.pdb
