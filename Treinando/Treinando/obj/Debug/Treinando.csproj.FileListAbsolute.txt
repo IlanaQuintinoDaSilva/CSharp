@@ -1,0 +1,7 @@
+C:\Users\Ilana\Documents\GitHub\CSharp\Treinando\Treinando\bin\Debug\Treinando.exe.config
+C:\Users\Ilana\Documents\GitHub\CSharp\Treinando\Treinando\bin\Debug\Treinando.exe
+C:\Users\Ilana\Documents\GitHub\CSharp\Treinando\Treinando\bin\Debug\Treinando.pdb
+C:\Users\Ilana\Documents\GitHub\CSharp\Treinando\Treinando\obj\Debug\Treinando.csprojResolveAssemblyReference.cache
+C:\Users\Ilana\Documents\GitHub\CSharp\Treinando\Treinando\obj\Debug\Treinando.csproj.CoreCompileInputs.cache
+C:\Users\Ilana\Documents\GitHub\CSharp\Treinando\Treinando\obj\Debug\Treinando.exe
+C:\Users\Ilana\Documents\GitHub\CSharp\Treinando\Treinando\obj\Debug\Treinando.pdb
