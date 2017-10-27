@@ -10,8 +10,10 @@ namespace Treinando
     {
         public static void Main(string[] args)
         {
-            InequaltyTest test = new InequaltyTest();
-            test.Testing();
+            HackerRank test = new HackerRank();
+            test.WelcomeToJava("World");
+            test.WelcomeToJava("Java");
+            Console.ReadLine();
         }
     }
 }
